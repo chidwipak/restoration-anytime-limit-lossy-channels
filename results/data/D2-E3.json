@@ -1,0 +1,20 @@
+{
+  "exp_id": "D2-E3",
+  "ms": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "surrogates": [
+    "circle k=2",
+    "circle k=3",
+    "cat map"
+  ],
+  "seeds": [
+    31,
+    32,
+    33,
+    34
+  ]
+}
