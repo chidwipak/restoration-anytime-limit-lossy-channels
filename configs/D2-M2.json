@@ -1,0 +1,24 @@
+{
+  "experiment": "D2-M2",
+  "maps": [
+    "circle k=3",
+    "circle k=4",
+    "circle k=5",
+    "tent s=2",
+    "doubling"
+  ],
+  "m": 2,
+  "ms": [
+    1,
+    2,
+    4
+  ],
+  "n_trials": 20000,
+  "seeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ]
+}

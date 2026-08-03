@@ -1,0 +1,27 @@
+{
+  "experiment": "D2-E1",
+  "map": "circle",
+  "k": 2,
+  "r_star": 0.6931471805599453,
+  "R": 4.693147180559945,
+  "ms": [
+    1,
+    2,
+    4
+  ],
+  "p_grid": [
+    0.02,
+    0.62,
+    61
+  ],
+  "n_trials": 20000,
+  "T_slope": 60,
+  "seeds": [
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "method": "importance sampling (exp tilt) + naive MC"
+}

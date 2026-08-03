@@ -1,0 +1,22 @@
+{
+  "experiment": "D2-E3",
+  "surrogates": {
+    "circle k=2": 0.6931471805599453,
+    "circle k=3": 1.0986122886681098,
+    "cat map": 0.9624236501192069
+  },
+  "ms": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "n_trials": 16000,
+  "seeds": [
+    31,
+    32,
+    33,
+    34
+  ],
+  "method": "IS gamma crossing"
+}
